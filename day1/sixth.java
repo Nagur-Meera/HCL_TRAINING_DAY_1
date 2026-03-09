@@ -1,3 +1,4 @@
+package day1;
 //simple calculator
 
 import java.util.Scanner;

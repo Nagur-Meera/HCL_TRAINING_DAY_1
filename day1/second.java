@@ -1,3 +1,4 @@
+package day1;
 public class second {
     
     public static void main(String[] args) {

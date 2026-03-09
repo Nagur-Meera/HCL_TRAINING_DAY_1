@@ -1,3 +1,4 @@
+package day1;
 class first{
     public static void main(String []args){
         //widening
